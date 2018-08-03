@@ -1,6 +1,17 @@
-# tensorflow-dummy
+# Pose Detection in the Browser With Tensorflow js 
 
-> A Vue.js project
+This is made, partly to learn Posenet, partly in response to the [In My Feelings Challenge AI](https://www.youtube.com/watch?v=prswDGGmYaE)
+
+Code for the most part is directly from [here] (https://github.com/tensorflow/tfjs-models/tree/master/posenet), the fabulous tfjs-models repo.
+
+Modified to use Vue js. 
+
+## Video Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BQj3t4dWjuI
+" target="_blank"><img src="http://img.youtube.com/vi/BQj3t4dWjuI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 ## Build Setup
 
@@ -18,4 +29,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
