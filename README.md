@@ -1,5 +1,7 @@
 # Pose Detection in the Browser With Tensorflow js 
 
+![In my feelings AI](http://i.freegifmaker.me/1/5/3/3/2/7/15332783372257714.gif)
+
 This is made, partly to learn Posenet, partly in response to the [In My Feelings Challenge AI](https://www.youtube.com/watch?v=prswDGGmYaE)
 
 Code for the most part is directly from [here] (https://github.com/tensorflow/tfjs-models/tree/master/posenet), the fabulous tfjs-models repo.
